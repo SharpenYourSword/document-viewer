@@ -34,6 +34,9 @@ stylesheets:
     - public/stylesheets/DV/components/reset.css
     - public/stylesheets/DV/components/structure.css
     - public/stylesheets/DV/components/ui.css
+    - public/stylesheets/DV/components/annotations.css
+    - public/stylesheets/DV/components/dropShadow.css
+    - public/stylesheets/DV/components/pages.css
     - public/stylesheets/DV/components/*.css
 
   plain:
